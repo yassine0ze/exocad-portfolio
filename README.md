@@ -1,55 +1,45 @@
-# exocad-portfolio
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Exocad Portfolio</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-        }
-        header {
-            background-color: #333;
-            color: white;
-            padding: 1rem;
-            text-align: center;
-        }
-        .gallery {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 20px;
-            padding: 20px;
-        }
-        .gallery img {
-            width: 100%;
-            border-radius: 8px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-        }
-        .description {
-            text-align: center;
-            margin-top: 10px;
-        }
-    </style>
-</head>
-<body>
-    <header>
-        <h1>Exocad Portfolio</h1>
-        <p>Showcasing my dental CAD designs</p>
-    </header>
-    <div class="gallery">
-        <div>
-            <img src="images/design1.png" alt="Design 1">
-            <div class="description">Design 1: Full arch restoration</div>
-        </div>
-        <div>
-            <img src="images/design2.png" alt="Design 2">
-            <div class="description">Design 2: Crown design</div>
-        </div>
-        <!-- Add more designs as needed -->
-    </div>
-</body>
-</html>
+# Exocad Design Portfolio
+
+Welcome to my **Exocad Design Portfolio**! This repository showcases my professional work and skills in dental CAD design using the **Exocad** software.
+
+## 🔍 About the Project
+This project is a collection of my best works in **dental CAD design**, including:
+- Full arch restorations.
+- Crown and bridge designs.
+- Implant planning.
+- Digital smile designs.
+
+Each design is carefully crafted to meet professional standards in dental prosthetics.
+
+## 🚀 Features
+- **High-Quality Images**: All designs are presented with high-resolution images.
+- **Detailed Descriptions**: Each project includes a description of the process and tools used.
+- **Accessible Online**: The portfolio is hosted using [GitHub Pages](https://yassine0ze.github.io/exocad-portfolio).
+
+## 📁 File Structure
+```
+exocad-portfolio/
+├── images/          # Contains all design images
+├── index.html       # Main HTML file for the portfolio
+├── README.md        # Project details and instructions
+└── styles.css       # Optional: Custom CSS styles
+```
+
+## 🌟 Preview
+![Preview of Exocad Design](images/design1.png)
+
+Explore the portfolio live: [Exocad Portfolio](https://yassine0ze.github.io/exocad-portfolio)
+
+## 🛠️ Tools and Technologies
+- **Exocad**: For creating dental CAD designs.
+- **HTML/CSS**: For building the portfolio website.
+- **GitHub Pages**: For hosting the portfolio online.
+
+## 📬 Contact
+If you're interested in my work or have any questions, feel free to contact me:
+- Email: [your-email@example.com](mailto:your-email@example.com)
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+
+---
+
+Thank you for visiting my portfolio! 🙌
